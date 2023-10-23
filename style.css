@@ -1,0 +1,11 @@
+@charset "UTF-8";
+h1 {
+    text-align: center;
+}
+.col-sm-4{
+    background-color: rgb(243, 221, 239);
+    border-radius: 10%;
+   
+}
+.margem{
+}
