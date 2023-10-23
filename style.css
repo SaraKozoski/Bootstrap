@@ -1,11 +1,16 @@
 @charset "UTF-8";
+body{
+    background-color: rgb(255, 255, 255);
+}
 h1 {
     text-align: center;
 }
 .col-sm-4{
-    background-color: rgb(243, 221, 239);
-    border-radius: 10%;
-   
+    background-color: rgb(255, 255, 255);
+   text-align: center;
+   height: 300px;
+   color: rgb(0, 0, 0);
 }
-.margem{
+.carrosel{
+    margin: 40px 40px 40px 40px;
 }
